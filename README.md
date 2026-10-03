@@ -43,13 +43,24 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 
 ## Selected work
 
+<table>
+<tr>
+<td width="50%"><img src="assets/projects/edu-slm.png" alt="Edu-SLM landing page"/><p align="center"><sub><b>Edu-SLM</b></sub></p></td>
+<td width="50%"><a href="https://upescsa.in"><img src="assets/projects/upescsa.png" alt="UPESCSA.in home page"/></a><p align="center"><sub><b>UPESCSA.in</b></sub></p></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://agentic-fact-checker.vercel.app"><img src="assets/projects/fact-checker.png" alt="FactCheck AI article analysis page"/></a><p align="center"><sub><b>Agentic Fact-Checking Platform</b></sub></p></td>
+<td width="50%"><a href="https://thegeetaway.streamlit.app"><img src="assets/projects/thegeetaway.png" alt="TheGeetaWay search page"/></a><p align="center"><sub><b>TheGeetaWay</b></sub></p></td>
+</tr>
+</table>
+
 **Edu-SLM** &nbsp;—&nbsp; LoRA fine-tune of LLaMA and Qwen with RAG-assisted distillation over an Operating Systems curriculum. **95.3%** on a 655-MCQ benchmark.<br/>
 <sub>`Python` `PyTorch` `LoRA/PEFT` `RAG` `FAISS`</sub>
 
 **[UPESCSA.in](https://upescsa.in)** &nbsp;—&nbsp; MERN event platform, live on AWS EC2. Deployment is hand-rolled: Docker provisioning, nginx reverse proxy and Let's Encrypt TLS in a single command.<br/>
 <sub>`MongoDB` `Express` `React` `Node.js` `Docker` `Nginx`</sub>
 
-**Agentic Fact-Checking Platform** &nbsp;—&nbsp; Decomposes a news article into verifiable claims, gathers evidence by automated search, and scores credibility claim by claim. Prompts versioned in MongoDB.<br/>
+**[Agentic Fact-Checking Platform](https://agentic-fact-checker.vercel.app)** &nbsp;—&nbsp; Decomposes a news article into verifiable claims, gathers evidence by automated search, and scores credibility claim by claim. Prompts versioned in MongoDB.<br/>
 <sub>`Python` `FastAPI` `Groq` `React` `MongoDB`</sub>
 
 **[TheGeetaWay](https://thegeetaway.streamlit.app)** &nbsp;—&nbsp; Semantic search and RAG over Bhagavad Gita verses; Llama 3 answers grounded in the verses actually retrieved.<br/>
